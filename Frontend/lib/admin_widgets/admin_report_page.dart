@@ -32,7 +32,7 @@ class AdminReportPageState extends State<AdminReportPage> {
     try {
       final token = await FirebaseAuth.instance.currentUser?.getIdToken();
       final response = await get(
-        Uri.parse("https://breakbite.onrender.com/order/$selectedTimeframe"),
+        Uri.parse("https://breakbite-unyh.onrender.com/order/$selectedTimeframe"),
         headers: {
           "Content-Type": "application/json",
           "Authorization": "Bearer $token"

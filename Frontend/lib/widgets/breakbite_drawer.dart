@@ -118,7 +118,7 @@ class BreakBiteDrawer extends StatelessWidget {
                 try {
                   final token = await user.getIdToken();
                   await patch(
-                    Uri.parse("https://breakbite.onrender.com/user/clear-fcm"),
+                    Uri.parse("https://breakbite-unyh.onrender.com/user/clear-fcm"),
                     headers: {
                       "Content-Type": "application/json",
                       "Authorization": "Bearer $token"
