@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "781563554652",
-    "project_id": "breakbite-c33c3",
-    "storage_bucket": "breakbite-c33c3.firebasestorage.app"
+    "project_number": "119081809507",
+    "project_id": "breakbite-demo",
+    "storage_bucket": "breakbite-demo.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:781563554652:android:12ac27219925369c52af99",
+        "mobilesdk_app_id": "1:119081809507:android:a64e1f570a1987b093aa56",
         "android_client_info": {
           "package_name": "com.example.frontend"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB2yBLTIpibvvmeAoYBaD0UCUP1UcRTBpo"
+          "current_key": "AIzaSyB4vlqOduFKwyeUa6Cryu0F_jVrVPeKrbk"
         }
       ],
       "services": {

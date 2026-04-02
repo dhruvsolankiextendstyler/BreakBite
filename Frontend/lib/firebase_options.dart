@@ -47,29 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBaIWG4sWTlTLSe0NAC8jUgt1GxyneASL4',
-    appId: '1:781563554652:web:f1627adbb321779452af99',
-    messagingSenderId: '781563554652',
-    projectId: 'breakbite-c33c3',
-    authDomain: 'breakbite-c33c3.firebaseapp.com',
-    storageBucket: 'breakbite-c33c3.firebasestorage.app',
-    measurementId: 'G-D9J063G0MQ',
+    apiKey: 'AIzaSyBHP44loyXsmjJAb2XpCdurA_IjeNmcN_4',
+    appId: '1:119081809507:web:f2005eadd1ac3c9193aa56',
+    messagingSenderId: '119081809507',
+    projectId: 'breakbite-demo',
+    authDomain: 'breakbite-demo.firebaseapp.com',
+    storageBucket: 'breakbite-demo.firebasestorage.app',
+    measurementId: 'G-F5MGXLVTZN',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB2yBLTIpibvvmeAoYBaD0UCUP1UcRTBpo',
-    appId: '1:781563554652:android:12ac27219925369c52af99',
-    messagingSenderId: '781563554652',
-    projectId: 'breakbite-c33c3',
-    storageBucket: 'breakbite-c33c3.firebasestorage.app',
+    apiKey: 'AIzaSyB4vlqOduFKwyeUa6Cryu0F_jVrVPeKrbk',
+    appId: '1:119081809507:android:a64e1f570a1987b093aa56',
+    messagingSenderId: '119081809507',
+    projectId: 'breakbite-demo',
+    storageBucket: 'breakbite-demo.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBmofDTtgXR9SyIEdR8Ek7yBj_RqHgSgC4',
-    appId: '1:781563554652:ios:d97e79b20104f8d952af99',
-    messagingSenderId: '781563554652',
-    projectId: 'breakbite-c33c3',
-    storageBucket: 'breakbite-c33c3.firebasestorage.app',
+    apiKey: 'AIzaSyBqYMEc1PtfkxjTYF9K_ko2BYpvtgCJ2Bg',
+    appId: '1:119081809507:ios:9098959d146b4ea193aa56',
+    messagingSenderId: '119081809507',
+    projectId: 'breakbite-demo',
+    storageBucket: 'breakbite-demo.firebasestorage.app',
     iosBundleId: 'com.example.frontend',
   );
+
 }

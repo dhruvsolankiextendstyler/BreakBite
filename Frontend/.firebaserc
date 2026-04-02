@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "breakbite-c33c3"
-  }
+    "default": "breakbite-demo"
+  },
+  "targets": {},
+  "etags": {}
 }
